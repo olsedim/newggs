@@ -1,0 +1,6 @@
+---
+applications: 
+- buildpack: https://github.com/olsedim/newggs.git
+host: bubuggs
+name: bubuggs
+memory: 64M
